@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project sceenshot](images/mobileview.jpegS)
+![Project sceenshot](images/mobileview.jpeg)
 
 ### Links
 
